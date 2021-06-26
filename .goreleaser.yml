@@ -12,7 +12,7 @@ builds:
     goos:
       - linux
     goarch:
-      - x86_64
+      - amd64
 archives:
   - replacements:
       darwin: Darwin
